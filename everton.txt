@@ -1,8 +1,0 @@
-Texto para teste no GITHUB
-
-arquivo atualizado para testar a funcionalidade git pull
-
-
-testando atualização do clone
-
-2x
