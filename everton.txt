@@ -1,1 +1,3 @@
 Texto para teste no GITHUB
+
+arquivo atualizado para testar a funcionalidade git pull
